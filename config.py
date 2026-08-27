@@ -1,0 +1,5 @@
+APP_ENV = "production"
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+AWS_REGION = "us-east-1"
+S3_BUCKET_NAME = "nexus-corp-hr-documents-prod"
